@@ -245,9 +245,3 @@ The evaluation report includes:
 - The hallucination fact/citation benchmark currently uses heuristic scoring and can be improved with stronger source verification.
 - The toxicity and bias benchmarks are notebook-driven and were built for iterative experimentation rather than as polished standalone packages.
 - Some datasets and models may require Hugging Face access approval before use.
-
-## Appendix
-
-The implementation of the ethical benchmarking framework, including code, notebooks, and supporting files, is available at:
-
-[https://github.com/Shrimayee30/SLM_Ethical_benchmarking](https://github.com/Shrimayee30/SLM_Ethical_benchmarking)
